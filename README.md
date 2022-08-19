@@ -15,7 +15,7 @@ Para las cajas de texto debemos colocar el comando msgbox "" seguido de el texto
 >msgbox "ejemplo"
 
 ### Variables
-Para crear variables debemos darle un nombre a la variable seguido de "=", (si la variable que queremos colcoar es un texto
+Para crear variables debemos darle un nombre a la variable seguido de "=", (si la variable que queremos colocar es un texto
 debe estar cerrada entre comillas)
 >ejemplo = 10
 

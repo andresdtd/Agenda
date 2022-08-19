@@ -4,7 +4,7 @@ Mis apuntes
 ### Inicio y final
 Para iniciar un programa en Excel es necesario el Sub () yendo entreparéntesis el nombre del programa.
 Para terminar el programa es necesario el End Sub al final de el código.
->Sub Ejemplo
+>Sub Ejemplo()
 >.
 >.
 >.

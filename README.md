@@ -21,4 +21,4 @@ debe estar cerrada entre comillas)
 
 ### Evidencia
 
-[foto](Excel ejemplo.jpg)
+![foto](ejemplo.jpg)

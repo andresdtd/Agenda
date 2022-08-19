@@ -19,3 +19,6 @@ Para crear variables debemos darle un nombre a la variable seguido de "=", (si l
 debe estar cerrada entre comillas)
 >ejemplo = 10
 
+### Evidencia
+
+[foto](Excel ejemplo.jpg)

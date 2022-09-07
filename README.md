@@ -4,12 +4,13 @@ Mis apuntes
 ### Inicio y final
 Para iniciar un programa en Excel es necesario el Sub () yendo entreparéntesis el nombre del programa.
 Para terminar el programa es necesario el End Sub al final de el código.
->Sub Ejemplo()
->.
->.
->.
->End Sub
-
+```
+Sub Ejemplo()
+.
+.
+.
+End Sub
+``` 
 ### Cajas de texto
 Para las cajas de texto debemos colocar el comando msgbox "" seguido de el texto que queramos añadir.
 >msgbox "ejemplo"
